@@ -1,4 +1,10 @@
 % Inclass11
+%GB comments
+1) 100
+2) 100
+3) 100
+4) 100
+overall: 100
 
 % You can find a multilayered .tif file with some data on stem cells here:
 % https://www.dropbox.com/s/83vjkkj3np4ehu3/011917-wntDose-esi017-RI_f0016.tif?dl=0
